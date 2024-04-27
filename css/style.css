@@ -261,5 +261,5 @@ text-decoration:none;
 
 .bbsolid {
 color:#fff;
-border-bottom:1px solid #fff;
+border-bottom:1px dashed #fff;
 }
