@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<br><br><br><br>
+<center>
+<h1>Цветовая капча</h1>
+<img src="https://i.ibb.co/cvHFhvs/image.png">
+<p>Кликните на квадрат <span style="color:#e8791e;font-weight:bold;">оранжевого</span> цвета</p>
+</center>
+<br><br><br><br>
+<center>
+<h1>Фото капча</h1>
+<img src="https://i07.fotocdn.net/s101/fffd805780ecaf6e/gallery_xs/93728965.jpg" style="width:100px;height:100px;">
+<img src="https://thumb.pr0gramm.com/2018/04/13/ffd9fc47afba3c7d.jpg" style="width:100px;height:100px;">
+<img src="https://forum.industrial-craft.net/core/images/avatars/7c/3013-7c9f1c90fb6e9685bce81d23f23c0ed906bfb909.jpg" style="width:100px;height:100px;">
+<p>Кликните на фото девушки</p>
+</center>
+</body>
+</html>
