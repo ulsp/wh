@@ -241,6 +241,15 @@ text-transform:uppercase;
 font-weight:bold;
 }
 
+@media screen and (max-width: 600px) {
+#portfolio img {
+width:270px;
+height:150px;
+margin-right:35px;
+border:1px solid #ddd;
+}
+}
+
 #portfolio img {
 width:370px;
 height:250px;
