@@ -172,7 +172,7 @@ height:300px;
 padding-top:20px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
 #ai {
 display:inline-block;
 background:#eee;
@@ -248,9 +248,9 @@ margin-right:35px;
 border:1px solid #ddd;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
 #portfolio img {
-width:270px;
+width:250px;
 height:150px;
 margin-right:35px;
 border:1px solid #ddd;
