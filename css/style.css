@@ -210,7 +210,6 @@ display:inline-block;
 
 .w { 
 float:left;
-padding-left:150px;
 }
 
 .h {
@@ -285,4 +284,8 @@ text-decoration:none;
 .bbsolid {
 color:#fff;
 border-bottom:1px dashed #fff;
+}
+
+.aboutdigital {
+
 }
