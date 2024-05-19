@@ -210,10 +210,12 @@ display:inline-block;
 
 .w { 
 float:left;
+text-align:center;
 }
 
 .h {
 float:right;
+text-align:center;
 }
 
 .wicon {
